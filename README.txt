@@ -6,3 +6,4 @@ Also beware of the bunkers which are harder to hit out of. Press the 'h' key if 
 Every three holes, the game gets harder as the number of obstacles increases and the board gets bigger. 
 Make sure you enter the hole at the right speed, if the ball is going too fast it won't go in. Enjoy your time in Golfland!
 Install CMU graphics to run the program. - https://academy.cs.cmu.edu/desktop 
+How to run the project: Open the zip file Term Project and open all of the files in VS code. Run the program from the miniGolfMain.py
